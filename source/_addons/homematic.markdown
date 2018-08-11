@@ -45,7 +45,7 @@ For RF devices
 - **type** (*Require*): Device type for RFD service. Look into the manual of your device.
 - **device** (*Require*): Device on the host.
 
-For RF devices
+For wired devices
 - **serial** (*Require*): Serial number of the device.
 - **key** (*Require*): Encrypted key.
 - **ip** (*Require*): IP address of LAN gateway.
